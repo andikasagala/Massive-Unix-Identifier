@@ -1,2 +1,843 @@
+<h1>---== Massive Unix Identifier ==--- </h1>
+<br><br><br><br>
 
-<center> ---== Massive Unix Identifier ==--- <center> 
+<b>Coder: Andika Sagala ( Andy Charles Poenas ) </b> <br>
+<b> Date: Dec, 2020 </b>
+
+
+ <h2>in progress of development... coming soon.. </h2>
+
+
+
+Purposes:
+- Scientific
+- Massive unix identifier
+
+
+Unixs List:
+- Freebsd
+- Debian
+- Ubuntu
+- Kali
+- Fedora
+- Linux Mint
+- Archlinux
+- Parrot
+- antiX
+- ArcoLinux
+- Deepin
+- elementary OS
+- KDE Neon
+- Knoppix
+- Manjaro Linux
+- MX Linux
+- open Suse
+- PC Linux
+- Solus
+- Zorin OS
+- libranet
+- omoikane arma
+- quantian
+- damn small linux
+- damn vulnerable linux
+- knoppmyth
+- danix
+- parsix
+- kanotix
+- auditor security linux
+- backtrack
+- kali
+- b2d
+- knoppix
+- whoppix
+- whax
+- symphony os
+- musix
+- parallelknoppix
+- kaella
+- max
+- feather
+- medialinux
+- medianlinux
+- artistx
+- insert
+- morphix
+- aquamorph
+- zonecd
+- dreamlinux
+- shift linux
+- hiwix hiweed
+- kurumin
+- dizinha
+- poseidon
+- neodizinha patinho faminto
+- skolelinux
+- lindows
+- linspire
+- freespire
+- debianedu
+- rxart
+- mepis
+- simplymepis
+- antix
+- swift
+- impi
+- bluewall
+- k-demar
+- euronode
+- deadcd
+- olive
+- underground desktop
+- kubuntu
+- ulteo
+- popippix
+- netrunner
+- asturix
+- deft
+- bardlinux
+- gobuntu
+- xubuntu
+- runtu
+- voyager
+- chaletos
+- galiumos
+- peach osi
+- pc os
+- os4
+- black lab
+- pud
+- xpud
+- gnewsense
+- muslim edition
+- sabily
+- madbox
+- mythbuntu
+- ubuntulite
+- u-lite
+- greenie
+- fluxbuntu
+- crunchbang
+- ubuntu rescue remix
+- ubuntu eee easy peasy
+- leeenux
+- bunsen labs
+- crunchbang plus plus
+- zorin os
+- caine
+- xbmc live
+- xbmcbuntu
+- av
+- av linux
+- monomaxos
+- wattos
+- element
+- jolicloud
+- secuntu
+- backbox
+- pinguy os
+- elementary os
+- pear os
+- torbox
+- whonix
+- santoku
+- linux lite
+- ubuntu touch
+- ubuntu
+- ubuntu touch
+- snakeoil os
+- budgie-remix
+- ubuntu budgie
+- pop os
+- kde neon
+- maui linux
+- ubuntu mate
+- ubuntu kylin
+- ubuntu gnome
+- ubuntu desktoppack
+- descent os
+- sn0wl1nux
+- luninux os
+- bodhi
+- dream studio
+- tango studio
+- arios
+- gnack track
+- ylmf
+- startos
+- osgeo-live
+- lubuntu
+- lxle
+- peppermint os
+- qimo
+- vibuntu vinux
+- newtoos
+- ebox
+- moonos
+- zentyal
+- ultimate edition
+- zebuntu
+- zevenos
+- eeebuntu
+- aurora os
+- kiwi
+- geubuntu opengeu
+- moblin
+- ubuntu studio
+- uberyl
+- comfusion
+- satanic edition
+- linux mint
+- christian edition
+- nubuntu
+- edubuntu
+- arabian
+- molinux
+- blankon
+- trisquel
+- venenux
+- tuquito
+- 2xos
+- epidemic
+- librassoc
+- sidux
+- aptosid
+- siduction
+- webconverger
+- galpon minino
+- estrella roja
+- metamorphose
+- canaima
+- matriux
+- doudoulinux
+- linux mint debian edition
+- gnuguitarinux
+- liquid lemur
+- snowlinux
+- turnkey
+- xamin
+- linuxbbq
+- point
+- sparky
+- rescatux
+- armbian
+- tanglu
+- mx linux
+- handylinux
+- selks
+- primtux
+- parrot
+- devuan
+- refracta
+- q4os
+- endless os
+- robolinux
+- torios
+- steamos
+- ye olde steamose
+- stephenson's rocket
+- rebelin
+- univention corporate server
+- raspbian
+- raspbmc
+- osmc
+- moode
+- raspyfi
+- volumio
+- yunohost
+- solusos
+- openmediavault
+- red ribbon
+- salineos
+- progress
+- uberstudent
+- semplice
+- tails
+- untangle
+- inquisitor
+- proxmox
+- pelicanhpc
+- boss
+- pureos
+- vyatta
+- brocade vyatta vrouter
+- vyos
+- nepalinux
+- os2005
+- maemo
+- meego harmattan
+- mamona
+- elive
+- lliurex
+- voyage
+- resulinux
+- arco-debian
+- arc-live
+- grml
+- clonezilla live
+- drbl
+- guadalinex
+- amber
+- xebian
+- aslinux
+- blackrhino
+- gnulinex
+- lihuen
+- demudi
+- 64studio
+- progeny
+- gibraltar
+- storm
+- corel
+- xandros
+- sls
+- mnis
+- stampede
+- vectorlinux
+- evilentity
+- topologilinux
+- deli
+- kwort
+- connochaetos
+- delicate
+- austrumi
+- goblinx
+- hostgis
+- nimblex
+- frugalware
+- netsecl
+- slackintosh
+- voltalinux
+- bluewhite64
+- wifislax
+- draco
+- wifiway
+- kongoni
+- salix
+- slackel
+- porteus
+- slaxbmc
+- linvo
+- sms
+- platypux
+- superb mini server
+- armedslack
+- slackware arm
+- sl4p
+- absolute
+- how-tux
+- rip
+- pqui
+- slamd64
+- mopslinux
+- agilialinux
+- kate
+- kateos
+- slack 390
+- minislack
+- zenwalk
+- darkstar
+- Stux
+- STUX
+- plamo
+- wolvix
+- gnu-halo
+- slampp
+- dnalinux
+- splack linux
+- tiny
+- burapha
+- s.u.s.e
+- SuSE
+- caixa magica
+- stresslinux
+- SUSE
+- OpenSUSE
+- sun jds
+- united linux
+- sco linux
+- astaro
+- caldera openlinux
+- sco openlinux
+- redmond lycoris desktop/LX
+- ultrapenguin
+- buhawi
+- eurielec
+- sophos utm
+- easynas
+- geckolinux
+- alt
+- mandrake
+- sam
+- opensls
+- annvix
+- mandriva
+- samity
+- mageia
+- rosa
+- openmandriva lx
+- unity linux
+- blackpanther
+- demolinux
+- pclinuxos
+- granular
+- tinyme
+- phinx
+- garuda
+- krud
+- eridani
+- vine
+- armed
+- kondara
+- elx
+- finnix
+- miracle
+- asianux
+- pingo
+- rocks
+- asplinux
+- independence
+- hp secure
+- engarde
+- blag
+- berry
+- atmission
+- momonga
+- mythdora
+- ekaaty
+- vixta
+- simplis
+- xange
+- ezey
+- moblin 2
+- meego
+- mer
+- tizen
+- sailfish os
+- hanthana
+- synergy
+- fuduntu
+- parsidora
+- maui os
+- hawaii os
+- chapeau
+- viperr
+- kororaa
+- korora
+- fusion
+- qubes os
+- fedora core
+- fedora
+- vortexbox
+- qjuba
+- amahi
+- asianlinux
+- fox
+- nst
+- elastix
+- centos
+- elastix
+- opennode
+- nethserver
+- baruwa
+- rockstor
+- blueonyx
+- asterisk at home
+- trixbox
+- cern
+- startcom
+- endian
+- servos
+- oracle enterprise
+- oracle linux
+- tao
+- scientific
+- white box
+- puias
+- sulix
+- annyung
+- aurox
+- bayanihan
+- aurora
+- k12
+- superrescue
+- clarkconnect
+- best
+- sot
+- lba
+- clearos
+- happy
+- bu linux
+- trustix
+- linpus
+- immunix
+- red flag
+- yellow dog
+- e-smith
+- sme server
+- fermi
+- turbolinux
+- pld
+- conectiva
+- linuxppc
+- wgs linux pro
+- gentoox
+- knopperdisk
+- epios
+- kororaa
+- papug
+- toorox
+- funtoo
+- chrome os
+- chromium os
+- nayuos
+- flint os
+- cloudready
+- daphile
+- porteus kiosk
+- wtfplay-live
+- container linux
+- coreos
+- liberte
+- nova
+- systemrescuecd
+- calculate
+- pardus
+- rr4
+- sabayon
+- pentoo
+- vidalinux
+- vlos
+- ututo xs
+- ututo
+- ututo-e
+- arch
+- chakra
+- kahelos
+- arch linux arm
+- parabola
+- bluestar linux
+- poliarch
+- bbqlinux
+- audiophile linux
+- apricity
+- swagarch gnu linux
+- hyperbola
+- archmerge
+- arcolinux
+- arch linux 32
+- artix
+- archlabs
+- morpheusarch linux
+- obarun
+- blackarch
+- cinnarch
+- antergos
+- bridge
+- manjaro
+- sonar
+- netrunner rolling
+- archbang
+- ctkarchlive
+- ctkarch
+- linhes
+- al-amlug
+- archie
+- mcc interim
+- tamu
+- yggdrasil
+- dld
+- lst
+- bogus
+- xdenu
+- linux-ft
+- mini
+- jurix
+- trans-ameritech
+- unifix
+- linux universe
+- craftworks
+- dilinux
+- doslinux
+- mklinux
+- monkey
+- linux router project
+- leaf
+- weaver
+- nitix
+- uclinux
+- rock
+- t2
+- project ballantin
+- freesco
+- tomsrtbt
+- coyote
+- eit easylinux
+- elinos
+- peanut
+- bluepoint
+- alinux
+- linux from scratch
+- zenix
+- nutyx
+- aryalinux
+- kaarpux
+- kaeilos
+- smoothwall gpl
+- ipcop
+- smoothwall express
+- ipfire
+- crux
+- beehive
+- midori
+- leka rescue floppy
+- openwall
+- dyne:bolic
+- openwrt
+- ark
+- netstation
+- thinstation
+- lps
+- lede project
+- tens
+- sorcerer
+- source mage
+- lunar
+- tinfoil hat
+- linuxconsole
+- gobolinux
+- yoper
+- uhu
+- geexbox
+- macpup
+- simplicity
+- sage live cd
+- legacy
+- teenpup
+- legacy os
+- quirky
+- devil
+- nixos
+- guixsd
+- qilinux
+- natures linux
+- openfiler
+- octoz
+- hedinux
+- specifix
+- rpath
+- foresight
+- paldo
+- brazilfw
+- jarro negro
+- ophcrack
+- alpine
+- everest
+- qomo
+- zeroshell
+- parted magic
+- slitaz
+- tiny slitaz
+- openmamba
+- syllable server
+- angstrom
+- plop
+- voidlinux
+- exherbo
+- tiny core
+- dcore
+- picoreplayer
+- dragora
+- webos
+- luneos
+- libreelec
+- lakka
+- openelec
+- cloudlinux os
+- 0linux
+- 4m
+- noop
+- bedrock
+- aosc os
+- kaos
+- minimal linux live
+- pisi linux
+- evolve os solus
+- clear linux
+- rancheros
+- super grub2 disk
+- ovios
+- asteroid os
+- android
+- android-x86
+- cyanogenmod
+- android-ia
+- omnirom
+- project brillo
+- android things
+- wear os
+- lineageos
+- cyanogen os
+- android wear
+- BSDBox
+- BSDeviant
+- BSDLive
+- Bzerk CD
+- ClonOS
+- DragonFly BSD
+- ClosedBSD
+- DesktopBSD
+- EclipseBSD
+- Evoke
+- FenestrOS BSD
+- FreeBSDLive	
+- FreeBSD LiveCD	
+- FreeNAS
+- FreeSBIE
+- Frenzy Live CD
+- Debian GNU/kFreeBSD
+- Gentoo/FreeBSD
+- GhostBSD
+- GuLIC-BSD	
+- HamFreeSBIE
+- HardenedBSD
+- HeX	
+- IronPort AsyncOS
+- Junos OS
+- MaheshaBSD
+- miniBSD
+- m0n0wall
+- MidnightBSD
+- NanoBSD
+- NAS4Free	
+- NetBoz
+- NextBSD	
+- Nokia IPSO
+- OPNsense	
+- PacBSD
+- Paxym
+- pfSense
+- PicoBSD
+- RelaxBSD
+- RoFreeSBIE	
+- Snarl
+- The Dark Star	
+- ThinBSD
+- TheWall
+- Triance OS	
+- TrueBSD
+- TrueOS
+- TrustedBSD
+- WarBSD
+- WiBSD
+- WiFiBSD
+- CellOS
+- Orbis OS
+- XORP
+- Zrouter
+- Gentoo/DragonFlyBSD	
+- FireFly BSD
+- BlackBSD
+- EdgeBSD
+- Force10 Networks FTOS
+- Debian GNU/NetBSD
+- Gentoo/NetBSD
+- Jibbed
+- OS108
+- PolyBSD / pocketSAN	
+- SEOS
+- ÆrieBSD
+- adJ	
+- Bitrig
+- BowlFish
+- BSDanywhere
+- ComixWall
+- ekkoBSD	
+- EmBSD
+- FabBSD
+- FuguIta	
+- Gentoo/OpenBSD
+- MarBSD	
+- LibertyBSD	
+- MicroBSD
+- MirOS BSD	
+- OliveBSD
+- PsygNAT	
+- Quetzal
+- SONaFR
+- SnasciOS
+- UTMFW
+- BSD/OS
+- SunOS
+- Ultrix
+- RISCiX
+- Tru64 UNIX
+- macOS
+- iOS
+- Darwin
+- DesktopBSD
+- ClosedBSD
+- FreeSBIE
+- PicoBSD
+- MirOS BSD
+- ekkoBSD
+- MicroBSD
+- OliveBSD
+- Gentoo/FreeBSD
+- Gentoo/OpenBSD
+- Gentoo/NetBSD
+- Debian GNU/kFreeBSD
+- Debian GNU/NetBSD
+- MidnightBSD
+- Paxym FreeBSD for Octeon
+- MaheshaBSD
+- KarmaBSD
+- Jibbed
+- Bitrig
+- FreeSBIE
+- iXsystems
+- MidnightBSD
+- m0n0wall
+- OPNsense
+- NAS4Free
+- ClonOS
+- Blue Coat Systems
+- Check Point IPSO
+- Borderware
+- Citrix Systems
+- COMP VPN
+- Coyote Point 
+- Dell Compellent
+- Halon 
+- Hobnob
+- IronPort
+- Isilon Systems' OneFS
+- Juniper Networks Junos
+- KACE Networks's
+- Lynx Software Technologies LynxOS
+- McAfee
+- NetApp
+- Netflix
+- Panasas
+- Panasonic 
+- QNAP's
+- Sandvine's
+- Silicon Graphics International 
+- Surgate Lab's
+- Sony Computer Entertainment's
+- Nintendo's Switch
+- Sophos
+- Spectra Logic 
+- Symmetricom 
+- Synergy ANALYZE
+- The Weather Channel's IntelliStar
+- Whatsapp
+- Xinuos OpenServer
+- openbsd
+- sunos
+- opensolaris
+- solaris
+- hp-ux
+- nexstep
+- openstep
+- aix
+- minix
