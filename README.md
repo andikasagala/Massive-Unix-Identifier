@@ -9,14 +9,14 @@
 
 <b>version v0.01a</b><br>
 Massive Unix Identifier is open source. It is free, means you can develop nor rewrite it into another programming language with your own thinking method.
-<br>
+<br><br>
 
-Purposes:
+<h3>Purposes:</h3>
 - Scientific
 - Massive unix identifier
+<br><br>
 
-
-How to use:<br>
+<h3>How to use:</h3><br>
 *) Software
 - git clone https://github.com/andikasagala/Massive-Unix-Identifier
 - then run " sh identifier.sh " on the unix console
@@ -28,8 +28,8 @@ How to use:<br>
 - edit and add your specific codes to the each files inside "OS"
 - Sample: https://github.com/andikasagala/Pluto-Internet-Privacy
 
-
-Unixs List:
+<br><br>
+<h3>Unix Lists:</h3>
 - Freebsd
 - Debian
 - Ubuntu
