@@ -7,7 +7,7 @@
 
  <h2>in progress of development... coming soon.. </h2>
 
-<b>version v0.01a</b>
+<b>version v0.01a</b><br>
 Massive Unix Identifier is open source. It is free, means you can develop nor rewrite it into another programming language with your own thinking method.
 <br>
 
