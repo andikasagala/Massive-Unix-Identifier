@@ -26,6 +26,7 @@ How to use:<br>
 - open file "identifier.sh", then copy and add to your codes
 - do not forget to copy all files in "OS" directory
 - edit and add your specific codes to the each files inside "OS"
+- Sample: https://github.com/andikasagala/Pluto-Internet-Privacy
 
 
 Unixs List:
