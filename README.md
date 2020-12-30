@@ -23,7 +23,7 @@ How to use:<br>
 
 *) Coding
 - git clone https://github.com/andikasagala/Massive-Unix-Identifier
-- open file "identifier.sh", then add to your codes
+- open file "identifier.sh", then copy and add to your codes
 - do not forget to copy all files in "OS" directory
 - edit and add your specific codes to the each files inside "OS"
 
