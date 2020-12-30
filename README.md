@@ -12,21 +12,21 @@ Massive Unix Identifier is open source. It is free, means you can develop nor re
 <br><br>
 
 <h3>Purposes:</h3>
-- Scientific
-- Massive unix identifier
+- Scientific<br>
+- Massive unix identifier<br>
 <br><br>
 
 <h3>How to use:</h3><br>
-*) Software
-- git clone https://github.com/andikasagala/Massive-Unix-Identifier
-- then run " sh identifier.sh " on the unix console
-
-*) Coding
-- git clone https://github.com/andikasagala/Massive-Unix-Identifier
-- open file "identifier.sh", then copy and add to your codes
-- do not forget to copy all files in "OS" directory
-- edit and add your specific codes to the each files inside "OS"
-- Sample: https://github.com/andikasagala/Pluto-Internet-Privacy
+*) Software<br>
+- git clone https://github.com/andikasagala/Massive-Unix-Identifier<br>
+- then run " sh identifier.sh " on the unix console<br>
+<br>
+*) Coding<br>
+- git clone https://github.com/andikasagala/Massive-Unix-Identifier<br>
+- open file "identifier.sh", then copy and add to your codes<br>
+- do not forget to copy all files in "OS" directory<br>
+- edit and add your specific codes to the each files inside "OS"<br>
+- Sample: https://github.com/andikasagala/Pluto-Internet-Privacy<br>
 
 <br><br>
 <h3>Unix Lists:</h3>
