@@ -16,6 +16,18 @@ Purposes:
 - Massive unix identifier
 
 
+How to use:
+*) Software
+- git clone https://github.com/andikasagala/Massive-Unix-Identifier
+- then run " sh identifier.sh " on the unix console
+
+*) Coding
+- git clone https://github.com/andikasagala/Massive-Unix-Identifier
+- open file "identifier.sh", then add to your codes
+- do not forget to copy all files in "OS" directory
+- edit and add your specific codes to the each files inside "OS"
+
+
 Unixs List:
 - Freebsd
 - Debian
