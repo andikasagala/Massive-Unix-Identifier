@@ -14,6 +14,8 @@ Massive Unix Identifier is open source. It is free, means you can develop nor re
 <h3>Purposes:</h3>
 - Scientific<br>
 - Massive unix identifier<br>
+- For Computer Technician<br>
+- Coder <br>
 <br><br>
 
 <h3>How to use:</h3><br>
