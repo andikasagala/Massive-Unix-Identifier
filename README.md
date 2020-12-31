@@ -14,9 +14,11 @@ Massive Unix Identifier is open source. It is free, means you can develop nor re
 <h3>Purposes:</h3>
 - Scientific<br>
 - Massive unix identifier<br>
-- For Computer Technician<br>
+- Computer Technician<br>
 - Coder <br>
 <br><br>
+
+
 
 <h3>How to use:</h3><br>
 *) Software<br>
@@ -858,3 +860,14 @@ Massive Unix Identifier is open source. It is free, means you can develop nor re
 - openstep <br>
 - aix <br>
 - minix <br>
+
+
+<br><br>
+
+
+<h3>Coder profiles:</h3> <br>
+Twitter: https://twitter.com/andikasagala3 <br>
+Facebook: https://www.facebook.com/andikaugandacharles.sagala <br>
+LinkedIn: https://linkedin.com/in/andika-sagala <br>
+Youtube: https://www.youtube.com/channel/UCByuR9KOrn1jvjqOkkQnHkg <br>
+
