@@ -34,6 +34,9 @@ Massive Unix Identifier is open source. It is free, means you can develop nor re
 
 
 <br><br>
+<h3>Coder's emulation specs:</h3>
+- Using Virtual Box for emulation <br>
+- Using x86_64 bit OS <br>
 
 <br><br>
 <h3>Unix Lists:</h3>
