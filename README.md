@@ -31,7 +31,7 @@ Massive Unix Identifier is open source. It is free, means you can develop nor re
 - open file "identifier.sh", then copy and add to your codes<br>
 - do not forget to copy all files in "OS" directory<br>
 - edit and add your specific codes to the each files inside "OS"<br>
-- Sample: https://github.com/andikasagala/Pluto-Internet-Privacy<br>
+- Sample: https://github.com/andikasagala/Pluto-Internet-Privacy or https://github.com/andikasagala/VMware-Fixer<br>
 
 
 <br><br>
