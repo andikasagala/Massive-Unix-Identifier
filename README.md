@@ -18,8 +18,9 @@ Massive Unix Identifier is open source. It is free, means you can develop nor re
 - Coder <br>
 <br><br>
 
-
-
+<h3>Latin guide: </h3>
+- actiones secundum fidei <br>
+<br><br>
 <h3>How to use:</h3><br>
 *) Software<br>
 - git clone https://github.com/andikasagala/Massive-Unix-Identifier<br>
