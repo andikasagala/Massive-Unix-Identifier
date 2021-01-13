@@ -32,7 +32,10 @@ Massive Unix Identifier is open source. It is free, means you can develop nor re
 - do not forget to copy all files in "OS" directory<br>
 - edit and add your specific codes to the each files inside "OS"<br>
 - Sample: https://github.com/andikasagala/Pluto-Internet-Privacy or https://github.com/andikasagala/VMware-Fixer<br>
-
+<br><br>
+<h3>Programming lagugage:</h3><br>
+- Shell Script<br>
+- C<br>
 
 <br><br>
 <h3>Coder's emulation specs:</h3>
