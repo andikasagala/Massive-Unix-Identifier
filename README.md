@@ -19,7 +19,7 @@ Massive Unix Identifier is open source. It is free, means you can develop nor re
 <br><br>
 
 <h3>Latin guide: </h3>
-- actiones secundum fidei <br>
+- actiones secundum fidei ( human language translation: action follows belief. i.e., "we act according to what we believe (ourselves to be)." | Machine language translation: your codes will run on specific/exact Operating System. <br>
 <br><br>
 <h3>How to use:</h3><br>
 *) Software<br>
