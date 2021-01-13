@@ -37,6 +37,11 @@ Massive Unix Identifier is open source. It is free, means you can develop nor re
 - Shell Script<br>
 - C<br>
 
+<h3>Useful for:</h3><br>
+- used by Computer Technician for Computer software setting<br>
+- used by Computer Technician for Operating system setting<br>
+- etc <br>
+
 <br><br>
 <h3>Coder's emulation specs:</h3>
 - Using VirtualBox for emulation <br>
